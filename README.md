@@ -1,3 +1,15 @@
+<a id="user-content-1" class="anchor" aria-hidden="true" href="#1">
+<a name="1" id="1" target="_blank"></a> <span id="1"></span>
+<a name="2" id="2" target="_blank"></a> <span id="2"></span>
+<a name="3" id="3" target="_blank"></a> <span id="3"></span>
+<a name="4" id="4" target="_blank"></a> <span id="4"></span>
+<a name="5" id="5" target="_blank"></a> <span id="5"></span>
+<a name="6" id="6" target="_blank"></a> <span id="6"></span>
+<a name="7" id="7" target="_blank"></a> <span id="7"></span>
+<a id="user-content-1" href="#1">
+<div align="center">
+<h1><p><strong>明慧视频</strong></p></h1>
+
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-30/ccp-p4-3.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/ccp-p4-3.jpg" title="从武汉肺炎看中共的防控骗术"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/SoundOfHope_360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/SoundOfHope_360p.jpg" title="微电影：希望的声音"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-15/20200320.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/20200320.jpg" title="两武汉医生患武汉肺炎 数日康复"></a>
@@ -42,3 +54,4 @@
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-7-5/ChuanQiShiDai/MP4/360p/6-513SpecialProgram_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/6-513SpecialProgram_MH-360p.jpg" title="世界法轮大法日特别节目"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-6-11/jinzhou/MP4/360p/jzbhwj-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/jzbhwj-360p.jpg" title="锦州不会忘记"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-5-7/song-shi-en.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/song-shi-en.jpg" title="诗朗诵：颂师恩（视频）"></a>
+</div>
