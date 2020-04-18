@@ -53,6 +53,10 @@
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-14/xiaoyu-family-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/xiaoyu-family-360p.jpg" title="微电影：晓宇一家人"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-2/shenhua.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/shenhua.jpg" title="真相短连环画——我和孩子经历的神话"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-1-7/GuoNian-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/GuoNian-360p.jpg" title="微电影：过年"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-1-16/zbz.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/zbz.jpg" title="自闭症儿神奇康复"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-12-10/425.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/425.jpg" title="“四.二五”上访真相"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/1400forge-1210.jpg" title="解析〝1400例〞"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/zf-dsp-1128.jpg" title="是自焚还是骗局？"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-12-17/yikao-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/yikao-360p.jpg" title="微电影：艺考"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/SY-Classical-Chinese-Dance-Technique-Collection-2018.jpg" title="美国神韵艺术团新秀技巧表演（视频）"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-8-17/dalian-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/dalian-360p.jpg" title="纪录片：大连的故事"></a>
@@ -67,7 +71,6 @@
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-6-4/CodeofRevelation360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/CodeofRevelation360p.jpg" title="真相电影：《密码》"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-6-11/jzbhwj-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/jzbhwj-360p.jpg" title="锦州不会忘记"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-5-7/song-shi-en.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/song-shi-en.jpg" title="诗朗诵：颂师恩（视频）"></a>
-
 
 <br>.......不断增加中
 </div>
