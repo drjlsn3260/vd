@@ -12,15 +12,9 @@
 
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-30/ccp-p4-3.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/ccp-p4-3.jpg" title="从武汉肺炎看中共的防控骗术"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/SoundOfHope_360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/SoundOfHope_360p.jpg" title="微电影：希望的声音"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-15/20200320.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/20200320.jpg" title="两武汉医生患武汉肺炎 数日康复"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-18/whfyhl-720.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/whfyhl-720.jpg" title="武汉肺炎就这样好了"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-18/gushi-h.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/gushi-h.jpg" title="大瘟疫中的奇异故事（视频）"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-15/chenqinhe-720.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/chenqinhe-720.jpg" title="骨癌患者陈庆河绝处逢生"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-14/hushenfu-720.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/hushenfu-720.jpg" title="瘟疫中的千金良方"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-14/Hulin_720p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/Hulin_720p.jpg" title="航空工程师胡林被沈阳康家山监狱迫害致死"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-1/gygx-music720p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/gygx-music720p.jpg" title="北京某区宣传部副部长： 国难当头　感谢你们救人"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-2-23/zijiu_low.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/zijiu_low.jpg" title="瘟疫到来如何自救"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-2-7/feiyanzibao.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/feiyanzibao.jpg" title="面对武汉肺炎　如何自保"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-1-1/wangli-1228.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/wangli-1228.jpg" title="僵直性脊柱炎患者绝处逢生"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-12-26/Yuan/MP4/360p/yuan-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/yuan-360p.jpg" title="贺岁短剧：结善缘"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-1-1/w.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/w.jpg" title="我站起来了！"></a>
