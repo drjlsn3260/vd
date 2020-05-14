@@ -65,15 +65,15 @@
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-8-17/dalian-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/dalian-360p.jpg" title="纪录片：大连的故事"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-6-2/AdventureRay-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/AdventureRay-360p.jpg" title="电影：小磊历险记"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-5-17/TheWish-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/TheWish-360p.jpg" title="微电影：心愿"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-7-5/1-Xuezhongmei_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/1-Xuezhongmei_MH-360p.jpg" title="传奇时代 雪中梅"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-7-5/2-RedWallMemory_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/2-RedWallMemory_MH-360p.jpg" title="传奇时代 红墙的记忆"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/3-JTT_CN_MH-360p.jpg" title="传奇时代 通往天安门的旅程"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-7-5/4-ChoiceOfEurope_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/4-ChoiceOfEurope_MH-360p.jpg" title="传奇时代 欧洲的抉择"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-7-5/5-YiSu_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/5-YiSu_MH-360p.jpg" title="传奇时代 义诉"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-7-5/6-513SpecialProgram_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/6-513SpecialProgram_MH-360p.jpg" title="世界法轮大法日特别节目"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-6-4/CodeofRevelation360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/CodeofRevelation360p.jpg" title="真相电影：《密码》"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-6-11/jzbhwj-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/jzbhwj-360p.jpg" title="锦州不会忘记"></a>
-<a href="https://gitlab.com/szzdlab/www/raw/master/v/2017-5-7/song-shi-en.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/song-shi-en.jpg" title="诗朗诵：颂师恩（视频）"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/1-Xuezhongmei_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/1-Xuezhongmei_MH-360p.jpg" title="传奇时代 雪中梅"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/2-RedWallMemory_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/2-RedWallMemory_MH-360p.jpg" title="传奇时代 红墙的记忆"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/3-JTT_CN_MH-360p.jpg" title="传奇时代 通往天安门的旅程"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/4-ChoiceOfEurope_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/4-ChoiceOfEurope_MH-360p.jpg" title="传奇时代 欧洲的抉择"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/5-YiSu_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/5-YiSu_MH-360p.jpg" title="传奇时代 义诉"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/6-513SpecialProgram_MH-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/6-513SpecialProgram_MH-360p.jpg" title="世界法轮大法日特别节目"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-6-4/CodeofRevelation360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/CodeofRevelation360p.jpg" title="真相电影：《密码》"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-6-11/jzbhwj-360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/jzbhwj-360p.jpg" title="锦州不会忘记"></a>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-5-7/song-shi-en.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/song-shi-en.jpg" title="诗朗诵：颂师恩（视频）"></a>
 
 <br>.......不断增加中
 </div>
