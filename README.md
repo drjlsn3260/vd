@@ -76,7 +76,7 @@
 <a href="https://gitlab.com/szzdlab/v1/raw/master/2017-5-7/song-shi-en.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/v/raw/master/t/210b/song-shi-en.jpg" title="诗朗诵：颂师恩（视频）"></a>
 <hr>
 
-
+</div>
 <p><a href="https://gitlab.com/szzdlab/w2/raw/master/mh/fsu-mFG8.mp4" target="_blank">真相短视频：她在回光返照的时候得救</a></p>
 <p><a href="https://gitlab.com/szzdlab/w2/raw/master/mh/pzNgjXjVPm.mp4" target="_blank">疫情险 顺天保命有真言</a></p>
 <p><a href="https://gitlab.com/szzdlab/w2/raw/master/mh/HZ.mp4" target="_blank">4·25北京府右街万人大上访</a></p>
@@ -342,4 +342,4 @@
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/UnOJ_1Vl727U9O.mp4" target="_blank">录像片：敬爱的师父，生命的乐章因您而响起 </a></p>
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/2Pcy_006fH.mp4" target="_blank">录像小品：流泪的青春 </a></p>
 <br>.......不断增加中
-</div>
+
