@@ -77,8 +77,8 @@
 <hr>
 
 
-<p><a href="https://gitlab.com/szzdlab/w2/raw/master/mh/fsu-mFG8.mp4" target="_blank"><img width="350" height="50" src="https://img.shields.io/badge/真相短视频：她在回光返照的时候得救-660000?logo=airplay%20video" title="短视频：她在回光返照时得救" alt="真相短视频：她在回光返照的时候得救"></a></p>
-<p><a href="https://gitlab.com/szzdlab/w2/raw/master/mh/pzNgjXjVPm.mp4" target="_blank"><img width="350" height="50" src="https://img.shields.io/badge/疫情险 顺天保命有真言-660000?logo=airplay%20video" title="疫情险 顺天保命有真言" alt="疫情凶险 顺天保命有真言"></a></p>
+<p><a href="https://gitlab.com/szzdlab/w2/raw/master/mh/fsu-mFG8.mp4" target="_blank"><img width="350" height="50" src="https://img.shields.io/badge/短视频：她在回光返照时得救-660000?logo=airplay%20video" title="短视频：她在回光返照时得救" alt="真相短视频：她在回光返照的时候得救"></a></p>
+<p><a href="https://gitlab.com/szzdlab/w2/raw/master/mh/pzNgjXjVPm.mp4" target="_blank"><img width="350" height="50" src="https://img.shields.io/badge/疫情凶险 顺天保命有真言-660000?logo=airplay%20video" title="疫情险 顺天保命有真言" alt="疫情凶险 顺天保命有真言"></a></p>
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/uyG_ctJ.mp4" target="_blank"><img width="350" height="50" src="https://img.shields.io/badge/风雨天地行 第一集：荡浊-660000?logo=airplay%20video" title="风雨天地行 第一集：荡浊" alt="风雨天地行 第一集：荡浊"></a></p>
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/UBC_YZR.mp4" target="_blank"><img width="350" height="50" src="https://img.shields.io/badge/风雨天地行 第二集：清音-660000?logo=airplay%20video" title="风雨天地行 第二集：清音" alt="风雨天地行 第二集：清音"></a></p>
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/hIp_gjl.mp4" target="_blank"><img width="350" height="50" src="https://img.shields.io/badge/风雨天地行 第三集：风雨-660000?logo=airplay%20video" title="风雨天地行 第三集：风雨" alt="风雨天地行 第三集：风雨"></a></p>
