@@ -23,8 +23,8 @@
 <a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/tzrs.jpg" title="铁证如山" alt="铁证如山"></a>
 <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/wl.jpg" title="未来人的神话故事(上、下)" alt="未来人的神话故事(上、下)"></a>
 <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/wm.jpg" title="我们告诉未来 (全集)" alt="我们告诉未来 (全集)"></a>
-<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1-19.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/zjmd1_19.jpg" title="共产主义的终极目的(1-19)" alt="共产主义的终极目的(1-19)"></a>
-<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd20-32.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/zjmd20_32.jpg" title="共产主义的终极目的(20-32)" alt="共产主义的终极目的(20-32)"></a>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/zjmd1-19.jpg" title="共产主义的终极目的(1-19)" alt="共产主义的终极目的(1-19)"></a>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd20_32.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/zjmd20-32.jpg" title="共产主义的终极目的(20-32)" alt="共产主义的终极目的(20-32)"></a>
 <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/9p.jpg" title="九评共产党(全集)" alt="九评共产党(全集)"></a>
 <a href="https://gitlab.com/szzdlab/w3/raw/master/dmt.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/dmt.jpg" title="真实的江泽民 (全集)" alt="真实的江泽民 (全集)"></a>
 <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/qh.jpg" title="清华学子的悲壮故事(全集)" alt="清华学子的悲壮故事(全集)"></a>
