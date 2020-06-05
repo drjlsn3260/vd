@@ -28,7 +28,7 @@
 <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/9p.jpg" title="九评共产党(全集)" alt="九评共产党(全集)"></a>
 <a href="https://gitlab.com/szzdlab/w3/raw/master/dmt.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/dmt.jpg" title="真实的江泽民 (全集)" alt="真实的江泽民 (全集)"></a>
 <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/qh.jpg" title="清华学子的悲壮故事(全集)" alt="清华学子的悲壮故事(全集)"></a>
-<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/Uc6y.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/Uc6y.jpg" title="【细语人生】见证大法的神奇（第五集）" alt="【细语人生】见证大法的神奇（第五集）"></a>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/Uc6y.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/Uc6y.jpg" title="【细语人生】一个渐冻人的康复神奇" alt="【细语人生】一个渐冻人的康复神奇"></a>
 <a href="https://gitlab.com/szzdlab/w2/raw/master/3t/TdowhauWx9WiM.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/TdowhauWx9WiM.jpg" title="震惊世界的奇石 藏「中国共产党亡」" alt="震惊世界的奇石 藏「中国共产党亡」"></a>
 <a href="https://gitlab.com/szzdlab/w2/raw/master/mh/_.o.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/_.o.jpg" title="永恒的电波" alt="永恒的电波"></a>
 <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/zfzx.jpg" title="是自焚还是骗局?" alt="是自焚还是骗局?"></a>
