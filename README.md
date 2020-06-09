@@ -108,6 +108,12 @@
 <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-2-12/2014_Happy_New_Year.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/2014_Happy_New_Year.jpg" title="二零一四年恭祝师尊新年好" alt="二零一四年恭祝师尊新年好"></a>
 <a href="https://gitlab.com/szzdlab/v/raw/master/v/2016-8-31/dalian-online.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/dalian-online.jpg" title="视频：风雨中的大连" alt="视频：风雨中的大连"></a>
 <a href="https://gitlab.com/szzdlab/w2/raw/master/mh/fsu-mFG8.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/fsu-mFG8.jpg" title="短视频：她在回光返照时得救" alt="短视频：她在回光返照的时候得救"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-2-7/feiyanzibao.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/feiyanzibao.jpg" ttitle="短视频：面对武汉肺炎　如何自保" alt="短视频：面对武汉肺炎　如何自保"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-2-23/zijiu2.22.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/zijiu2.22.jpg" ttitle="短视频：瘟疫到来如何自救" alt="短视频：瘟疫到来如何自救"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-1/gygx-music720p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/gygx-music720p.jpg" ttitle="北京某副部长： 国难当头　感谢你们救人" alt="北京某副部长： 国难当头　感谢你们救人""></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-14/hushenfu-720.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/hushenfu-720.jpg" ttitle="短视频：瘟疫中的千金良方 alt="短视频：瘟疫中的千金良方"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-18/whfyhl-720.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/whfyhl-720.jpg" ttitle="短视频：武汉肺炎就这样好了" alt="短视频：武汉肺炎就这样好了"></a>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-15/20200320.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/20200320.jpg" ttitle="短视频：两武汉医生患武汉肺炎 数日康复" alt="短视频：两武汉医生患武汉肺炎 数日康复"></a>
 <hr>
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/uyG_ctJ.mp4" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/风雨天地行 第一集：荡浊-4a154b?logo=youtube%20tv" title="风雨天地行 第一集：荡浊" alt="风雨天地行 第一集：荡浊"></a></p>
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/UBC_YZR.mp4" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/风雨天地行 第二集：清音-4a154b?logo=youtube%20tv" title="风雨天地行 第二集：清音" alt="风雨天地行 第二集：清音"></a></p>
