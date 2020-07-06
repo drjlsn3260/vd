@@ -13,7 +13,7 @@
 <a href="https://gitlab.com/szzdlab/w5/raw/master/tianliang.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/tianliang.jpg" title="一修行人对疫情的反思和避难之道" alt="一修行人对疫情的反思和避难之道"></a>
 <a href="https://gitlab.com/szzdlab/m1/raw/master/yyzd2020gzn.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/yyzd2020gzn.jpg" title="預言中的2020庚子年" alt="預言中的2020庚子年"></a>
 <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/5N.8.jpg" title="活摘十年调查" alt="活摘十年调查"></a>
-<a href="https://gitlab.com/szzdlab/m1/raw/master/hG75Ez1eTyeZN.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/kVPlAyBx2wxLi.jpg" title="电影: 归途" alt="电影: 归途"></a>
+<a href="https://gitlab.com/szzdlab/v2/raw/master/hG75Ez1eTyeZN.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/kVPlAyBx2wxLi.jpg" title="电影: 归途" alt="电影: 归途"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-30/ccp-p4-3.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/ccp-p4-3.jpg" title="从武汉肺炎看中共的防控骗术" alt="从武汉肺炎看中共的防控骗术"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/SoundOfHope_360p.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/SoundOfHope_360p.jpg" title="微电影：希望的声音" alt="微电影：希望的声音"></a>
 <a href="https://gitlab.com/szzdlab/v2/raw/master/wnrl.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/wnrl.jpg" title="电影: 为你而来" alt="电影: 为你而来"></a>
