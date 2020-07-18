@@ -373,6 +373,7 @@
 <p><a href="https://gitlab.com/szzdlab/w2/raw/master/jdr/DgE.mp4" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/渐冻人第1集-4a154b?logo=youtube%20tv" title="渐冻人第1集" alt="渐冻人第1集"></a></p>
 <p><a href="https://gitlab.com/szzdlab/w2/raw/master/jdr/Hoz.mp4" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/渐冻人第2集-4a154b?logo=youtube%20tv" title="渐冻人第2集" alt="渐冻人第2集"></a></p>
 <p><a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/《转法轮》折服英美名校精英-4a154b?logo=youtube%20tv" title="《转法轮》折服英美名校精英" alt="《转法轮》折服英美名校精英"></a></p>
+<p><a href="https://gitlab.com/szzdlab/m1/raw/master/lbwyy2020.mp4" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/《刘伯温金陵塔碑文》2020年大洪水、三峡溃坝-4a154b?logo=youtube%20tv" title="《刘伯温金陵塔碑文》2020年大洪水、三峡溃坝?" alt="《刘伯温金陵塔碑文》2020年大洪水、三峡溃坝?"></a></p>
 
 
 
