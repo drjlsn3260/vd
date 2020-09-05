@@ -114,6 +114,8 @@
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-14/hushenfu-720.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/hushenfu-720.jpg" title="短视频：瘟疫中的千金良方" alt="短视频：瘟疫中的千金良方"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-18/whfyhl-720.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/whfyhl-720.jpg" title="短视频：武汉肺炎就这样好了" alt="短视频：武汉肺炎就这样好了"></a>
 <a href="https://gitlab.com/szzdlab/www/raw/master/v/2020-3-15/20200320.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/raw/master/210b/20200320.jpg" title="短视频：两武汉医生患武汉肺炎 数日康复" alt="短视频：两武汉医生患武汉肺炎 数日康复"></a>
+<a href="https://gitlab.com/szzdlab/m1/raw/master/Lijianhui-200804-720.mp4" target="_blank"><img width="210" src="https://gitlab.com/szzdlab/t/-/raw/master/210b/ruidian_720.jpg" title="短视频：千万富翁的生命回归之路" alt="短视频：千万富翁的生命回归之路"></a>
+
 <hr>
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/uyG_ctJ.mp4" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/风雨天地行 第一集：荡浊-4a154b?logo=youtube%20tv" title="风雨天地行 第一集：荡浊" alt="风雨天地行 第一集：荡浊"></a></p>
 <p><a href="https://gitlab.com/szzdlab/w1/raw/master/UBC_YZR.mp4" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/风雨天地行 第二集：清音-4a154b?logo=youtube%20tv" title="风雨天地行 第二集：清音" alt="风雨天地行 第二集：清音"></a></p>
