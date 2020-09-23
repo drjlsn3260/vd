@@ -88,5 +88,5 @@ function init() {
     setTimeout(clearSearch, 300);
   }
 }
-text.value = window.location.hash.substring(1);
+
 init();
