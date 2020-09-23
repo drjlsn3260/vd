@@ -67,7 +67,7 @@ function init() {
   add.className = 'qr-add';
   add.textContent = '添加二维码生成器';
   add.addEventListener('click', () => {
-    content.insertBefore(createQR(text), add)
+    content.insertBefore(createQR('https://is.gd/n8888'), add)
   });
   let share = document.querySelector('button.qr-share');
   share.addEventListener('click', (e) => {
@@ -79,7 +79,7 @@ function init() {
     setTimeout(() => e.target.textContent = origin, 3000);
   });
   content.appendChild(add);
-  let localQr = JSON.parse(localStorage.getItem('_local_qr_codes_') || text);
+  let localQr = JSON.parse(localStorage.getItem('_local_qr_codes_') || '["https://is.gd/n8888"]');
   let queryQr = parseQrFromQuery();
   localQr.forEach(chl => content.insertBefore(createQR(chl), add));
   if (queryQr) {
