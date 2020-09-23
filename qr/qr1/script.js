@@ -1,5 +1,5 @@
 'use strict';
-text.value = window.location.hash.substring(1);
+
 function updateLocalData() {
   let ds = [];
   document.querySelectorAll('.qr-img').forEach(i => ds.push(i.chl));
@@ -88,5 +88,5 @@ function init() {
     setTimeout(clearSearch, 300);
   }
 }
-
+text.value = window.location.hash.substring(1);
 init();
