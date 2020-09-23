@@ -67,7 +67,7 @@ function init() {
   add.className = 'qr-add';
   add.textContent = '添加二维码生成器';
   add.addEventListener('click', () => {
-    content.insertBefore(createQR('https://is.gd/n8888'), add)
+    content.insertBefore(createQR('https://is.gd/n8888' + '?' + randomString(2)), add)
   });
   let share = document.querySelector('button.qr-share');
   share.addEventListener('click', (e) => {
