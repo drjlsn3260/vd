@@ -1,5 +1,5 @@
 'use strict';
-
+text.value = window.location.hash.substring(1);
 function updateLocalData() {
   let ds = [];
   document.querySelectorAll('.qr-img').forEach(i => ds.push(i.chl));
@@ -67,7 +67,7 @@ function init() {
   add.className = 'qr-add';
   add.textContent = '添加二维码生成器';
   add.addEventListener('click', () => {
-    content.insertBefore(createQR('https://is.gd/n8888'), add)
+    content.insertBefore(createQR(text), add)
   });
   let share = document.querySelector('button.qr-share');
   share.addEventListener('click', (e) => {
