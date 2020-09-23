@@ -79,7 +79,7 @@ function init() {
     setTimeout(() => e.target.textContent = origin, 3000);
   });
   content.appendChild(add);
-  let localQr = JSON.parse(localStorage.getItem('_local_qr_codes_') || '[text]');
+  let localQr = JSON.parse(localStorage.getItem('_local_qr_codes_') || text);
   let queryQr = parseQrFromQuery();
   localQr.forEach(chl => content.insertBefore(createQR(chl), add));
   if (queryQr) {
