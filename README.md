@@ -318,7 +318,7 @@
 <p><a href="https://gitlab.com/szzdlab/pvdO2jN_uD/raw/master/public/O2jN_uD.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧焦点】选择-4a154b?logo=youtube%20tv" title="【明慧焦点】选择" alt="【明慧焦点】选择"></a></p>
 <p><a href="https://gitlab.com/szzdlab/pvdvG2w_fwq/raw/master/public/vG2w_fwq.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧焦点】从“610”到“720”（上集）-4a154b?logo=youtube%20tv" title="【明慧焦点】从“610”到“720”（上集）" alt="【明慧焦点】从“610”到“720”（上集）"></a></p>
 <p><a href="https://gitlab.com/szzdlab/pvdfqHP_UPG/raw/master/public/fqHP_UPG.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧焦点】从“610”到“720”（下集）-4a154b?logo=youtube%20tv" title="【明慧焦点】从“610”到“720”（下集）" alt="【明慧焦点】从“610”到“720”（下集）"></a></p>
-<p><a href="https://gitlab.com/szzdlab/pvdzainanyujiushu-720p/raw/master/public/zainanyujiushu-720p.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/2021变种病毒大流行 灾难与救赎-4a154b?logo=youtube%20tv" title="2021变种病毒大流行 灾难与救赎" alt="2021变种病毒大流行 灾难与救赎"></a></p>
+<p><a href="https://gitlab.com/szzdlab/vdzainanyujiushu-720p/raw/master/public/zainanyujiushu-720p.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/2021变种病毒大流行 灾难与救赎-4a154b?logo=youtube%20tv" title="2021变种病毒大流行 灾难与救赎" alt="2021变种病毒大流行 灾难与救赎"></a></p>
 
 <br>.......不断增加中
 </div>
